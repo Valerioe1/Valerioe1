@@ -7,3 +7,5 @@
 
 fave_animal = input("Please enter your favorite animal: ")
 print("your favorite animal is the " + fave_animal + ".")
+
+#test.
